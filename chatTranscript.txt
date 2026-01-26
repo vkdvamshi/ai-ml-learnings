@@ -1,0 +1,154 @@
+Michele Adamski
+0 minutes 4 seconds0:04
+Michele Adamski 0 minutes 4 seconds
+We talked about this yesterday for like an hour.
+AL
+
+Alvin Lee
+0 minutes 7 seconds0:07
+Alvin Lee 0 minutes 7 seconds
+Yeah, but.
+KG
+
+Krishna Gavvagi
+0 minutes 7 seconds0:07
+Krishna Gavvagi 0 minutes 7 seconds
+I'm sorry, I probably I wasn't in that and I'm I have to apologize because I've missed that whole part. So let's let's look at it.
+AL
+
+Alvin Lee
+0 minutes 8 seconds0:08
+Alvin Lee 0 minutes 8 seconds
+But.
+
+Michele Adamski
+0 minutes 12 seconds0:12
+Michele Adamski 0 minutes 12 seconds
+Mhm.
+AL
+
+Alvin Lee
+0 minutes 16 seconds0:16
+Alvin Lee 0 minutes 16 seconds
+So, so you see you see this as blocked. So if it runs again today, it's going to be blocked again tomorrow, today, the day after until this issue is resolved right here. So this job, this status checker job comes back in the error status, right?
+KG
+
+Krishna Gavvagi
+0 minutes 20 seconds0:20
+Krishna Gavvagi 0 minutes 20 seconds
+E.
+Krishna Gavvagi 0 minutes 23 seconds
+E.
+Krishna Gavvagi 0 minutes 26 seconds
+Um.
+Krishna Gavvagi 0 minutes 32 seconds
+E.
+KG
+Krishna Gavvagi
+23 minutes 49 seconds23:49
+Krishna Gavvagi 23 minutes 49 seconds
+Next week we'll go to bed.
+RP
+Rajendra PrasadTumati
+24 minutes 3 seconds24:03
+Rajendra PrasadTumati 24 minutes 3 seconds
+Oh, I think that's all Krishna. Only this one is pending from Kadow task perspective. I'll mention that comment right away.
+KG
+Krishna Gavvagi
+24 minutes 4 seconds24:04
+Krishna Gavvagi 24 minutes 4 seconds
+OK.
+Krishna Gavvagi 24 minutes 9 seconds
+OK. Thank you. Now coming to the integration runs, we pushed back saying that we needed more details from an audit standpoint of view that to have those with the Jira ticket process to have all the integration run request to be provided for approvals. So obviously we push back saying that we don't have enough details and then there are no teams availability from.
+Krishna Gavvagi 24 minutes 29 seconds
+WC if at all of the errors occur or any kind of tech support needed and that's the reason we are not going to have these runs on 29 or 30 or 31 or first of those four days. Raj to let you know. So the only integrations that we will be picking up is going to be on 2nd.
+Krishna Gavvagi 24 minutes 49 seconds
+That will be for 342 and 3:43. I'm still reviewing the approvals now, so hopefully we will get these things done by this week and support this integrations. These two integrations have like 30 plus files to be processed.
+Krishna Gavvagi 25 minutes 6 seconds
+Right, so on 2nd morning we have to pick up the 343 and 342 which are is the first one. We have all the files and and the boundary is also refreshed and we need to coordinate and Vidhisha the I mean Ashish, I don't see him so Vidhisha.
+RP
+Rajendra PrasadTumati
+25 minutes 15 seconds25:15
+Rajendra PrasadTumati 25 minutes 15 seconds
+Mhm.
+
+Michele Adamski
+25 minutes 25 seconds25:25
+Michele Adamski 25 minutes 25 seconds
+Yep.
+KG
+Krishna Gavvagi
+25 minutes 26 seconds25:26
+Krishna Gavvagi 25 minutes 26 seconds
+Let's make sure for 342 and 343 you guys connect to the database, right? And then have those files pulled for example. So those things are all ready from your end. Basically we will pick it up on Friday, that's all.
+VN
+Vidhisha Nandhikonda
+25 minutes 27 seconds25:27
+Vidhisha Nandhikonda 25 minutes 27 seconds
+So.
+Vidhisha Nandhikonda 25 minutes 43 seconds
+No question.
+KG
+Krishna Gavvagi
+25 minutes 45 seconds25:45
+Krishna Gavvagi 25 minutes 45 seconds
+Yeah, I guess that's it. Unless something emergency pop up and say like you guys need to work on this fire drill. Other than that, is there any other priority that I missed? Anyone really?
+RP
+Rajendra PrasadTumati
+26 minutes 3 seconds26:03
+Rajendra PrasadTumati 26 minutes 3 seconds
+What about 0405 and 00275 Krishna?
+KG
+Krishna Gavvagi
+26 minutes 9 seconds26:09
+Krishna Gavvagi 26 minutes 9 seconds
+We will run based on the test dates because they are just merely single files, right that we will be running. So we're not supporting the Adly request, so it will be after 1/5.
+RP
+Rajendra PrasadTumati
+26 minutes 19 seconds26:19
+Rajendra PrasadTumati 26 minutes 19 seconds
+OK. Sounds good. Thank you.
+KG
+Krishna Gavvagi
+26 minutes 27 seconds26:27
+Krishna Gavvagi 26 minutes 27 seconds
+OK. Nobody has any questions and we owe the couple meetings to be scheduled. So we'll see, I will see a couple meetings from in for perspective and then Michele and Franklin and Vamshi. So we all have to have the couple meetings to iron out some strategies.
+Krishna Gavvagi 26 minutes 47 seconds
+So other than that, I don't see any immediate requirements or requests to meet for next this week and next week.
+Krishna Gavvagi 26 minutes 57 seconds
+Does it sound good?
+RP
+Rajendra PrasadTumati
+27 minutes27:00
+Rajendra PrasadTumati 27 minutes
+Yep, sounds fine.
+KG
+Krishna Gavvagi
+27 minutes 2 seconds27:02
+Krishna Gavvagi 27 minutes 2 seconds
+OK, perfect then. All right. And thank you everybody for all the work that you guys did. I wish you all happy holidays. And if I don't talk to you on Friday, so we'll meet again on next Monday.
+VN
+Vidhisha Nandhikonda
+27 minutes 17 seconds27:17
+Vidhisha Nandhikonda 27 minutes 17 seconds
+Thank you.
+
+Franklin Cassarino
+27 minutes 17 seconds27:17
+Franklin Cassarino 27 minutes 17 seconds
+Thanks, everyone, as you do. Bye.
+RP
+Rajendra PrasadTumati
+27 minutes 20 seconds27:20
+Rajendra PrasadTumati 27 minutes 20 seconds
+Thanks everyone. Happy holidays. Bye.
+MH
+Mark Holland
+27 minutes 21 seconds27:21
+Mark Holland 27 minutes 21 seconds
+Thanks, Krishna. You too. Bye.
+
+Franklin Cassarino
+27 minutes 21 seconds27:21
+Franklin Cassarino 27 minutes 21 seconds
+But.
