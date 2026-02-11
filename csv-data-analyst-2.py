@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 from langchain_experimental.agents.agent_toolkits import create_pandas_dataframe_agent
-from langchain_community.llms import OpenAI
+from langchain_openai import ChatOpenAI as OpenAI
 from langchain_classic.agents.agent_types import AgentType
 import os
 
@@ -17,7 +17,6 @@ if uploaded_file is not None:
     st.write("Data Preview:", df.shape)
 
 def create_agent(dataframe):
-    # agent = create_pandas_dataframe_agent(OpenAI(temperature=0), dataframe, verbose=True)
     agent = create_pandas_dataframe_agent(llms, dataframe, verbose=True, agent_type=AgentType.OPENAI_FUNCTIONS,allow_dangerous_code=True)
     return agent
 
